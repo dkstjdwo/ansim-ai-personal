@@ -8,7 +8,7 @@
 user_id
 name
 email
-password
+password_hash
 created_at
 ```
 
@@ -79,7 +79,6 @@ question_type
 answer_id
 question_id
 answer_text
-audio_url
 score
 feedback
 ```
